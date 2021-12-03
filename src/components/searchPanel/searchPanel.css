@@ -1,0 +1,9 @@
+.search-panel {
+  margin-bottom: 1rem;
+  display: inline-block;
+  width: 54%;
+}
+.search-panel .form-control {
+  font-size: 15px;
+  padding: 8px 20px;
+}

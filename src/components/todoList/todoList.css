@@ -1,0 +1,22 @@
+ul.list-group {
+  margin-bottom: 16px;
+}
+span .btn-outline-success {
+  padding: 4px 12px;
+  margin-left: 10px;
+}
+.todo-list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.todo-list-item-label {
+  cursor: pointer;
+}
+.important {
+  color: rgb(70, 130, 180);
+  font-weight: 700;
+}
+.done {
+  text-decoration: line-through;
+}
